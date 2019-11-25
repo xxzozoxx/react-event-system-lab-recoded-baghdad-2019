@@ -2,7 +2,7 @@
 import React from 'react'
 class EyeOnMe extends React.Component {
   handleFoucs = () =>(console.log('Good!'))
-  handleBlur = () =>(consloe.log('Hey! Eyes on me!'))
+  handleBlur = () =>(console.log('Hey! Eyes on me!'))
 render(){
     return(
         <div>
